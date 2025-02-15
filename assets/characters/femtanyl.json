@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-10, -93],
+			"anim": "idle",
+			"fps": 24,
+			"name": "femtanyl idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -93],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "femtanyl left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-11, -95],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "femtanyl right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -90],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "femtanyl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-7, -90],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "femtanyl up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/femtanyl",
+	"position": [0, 0],
+	"healthicon": "femtanyl",
+	"flip_x": false,
+	"healthbar_colors": [141, 188, 255],
+	"camera_position": [-20, 130],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
